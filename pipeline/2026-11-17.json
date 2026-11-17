@@ -1,0 +1,163 @@
+{
+  "date": "2026-11-17",
+  "channel": "A",
+  "candidates": [
+    {
+      "id": "A-001",
+      "platform": "Upwork",
+      "title": "Extract product data from e-commerce site to CSV",
+      "description": "Need Python script to scrape 5000 products from a Shopify store. Export to CSV with name, price, SKU, images, description. Site has pagination and lazy loading.",
+      "budget": 120,
+      "budget_type": "fixed",
+      "posted_days_ago": 1,
+      "skills": [
+        "Python",
+        "BeautifulSoup",
+        "Selenium",
+        "CSV",
+        "Shopify"
+      ],
+      "client_rating": 4.8,
+      "client_hires": 23,
+      "proposals": 8,
+      "url": "https://upwork.com/jobs/123456",
+      "scores": {
+        "budget_fit": 3,
+        "capability": 4,
+        "competition_freshness": 3,
+        "total": 10
+      }
+    },
+    {
+      "id": "A-003",
+      "platform": "RemoteOK",
+      "title": "Scrape real estate listings from 3 Turkish property sites",
+      "description": "Collect listings from sahibinden, emlakjet, hepsiemlak. Need address, price, m2, rooms, photos, agent contact. Deliver as JSON + CSV. Handle anti-bot measures.",
+      "budget": 200,
+      "budget_type": "fixed",
+      "posted_days_ago": 3,
+      "skills": [
+        "Python",
+        "Scrapy",
+        "Playwright",
+        "Turkish language",
+        "JSON",
+        "CSV"
+      ],
+      "client_rating": 4.2,
+      "client_hires": 5,
+      "proposals": 4,
+      "url": "https://remoteok.com/remote-jobs/345678",
+      "scores": {
+        "budget_fit": 3,
+        "capability": 4,
+        "competition_freshness": 3,
+        "total": 10
+      }
+    },
+    {
+      "id": "A-002",
+      "platform": "Freelancer.com",
+      "title": "Automate Excel report generation from multiple CSV files",
+      "description": "Combine 10-15 daily CSV exports into formatted Excel workbook with pivot tables and charts. Run weekly via Task Scheduler. Need clean, documented Python code.",
+      "budget": 80,
+      "budget_type": "fixed",
+      "posted_days_ago": 2,
+      "skills": [
+        "Python",
+        "pandas",
+        "openpyxl",
+        "Excel automation",
+        "Windows Task Scheduler"
+      ],
+      "client_rating": 4.5,
+      "client_hires": 12,
+      "proposals": 15,
+      "url": "https://freelancer.com/projects/789012",
+      "scores": {
+        "budget_fit": 2,
+        "capability": 4,
+        "competition_freshness": 3,
+        "total": 9
+      }
+    },
+    {
+      "id": "A-005",
+      "platform": "Upwork",
+      "title": "Build price monitoring bot for competitor products",
+      "description": "Track 50 SKUs across 3 competitor sites daily. Alert via email/Telegram when price changes >5%. Dashboard with history. Deploy on VPS.",
+      "budget": 300,
+      "budget_type": "fixed",
+      "posted_days_ago": 5,
+      "skills": [
+        "Python",
+        "requests",
+        "BeautifulSoup",
+        "SQLite",
+        "Telegram Bot API",
+        "cron"
+      ],
+      "client_rating": 4.9,
+      "client_hires": 31,
+      "proposals": 6,
+      "url": "https://upwork.com/jobs/567890",
+      "scores": {
+        "budget_fit": 3,
+        "capability": 4,
+        "competition_freshness": 2,
+        "total": 9
+      }
+    },
+    {
+      "id": "A-004",
+      "platform": "PeoplePerHour",
+      "title": "Convert PDF bank statements to Excel (50 files)",
+      "description": "50 PDF bank statements (Turkish banks). Extract transactions: date, description, amount, balance. Output single Excel with all data. Accuracy critical.",
+      "budget": 60,
+      "budget_type": "fixed",
+      "posted_days_ago": 1,
+      "skills": [
+        "Python",
+        "pdfplumber",
+        "tabula-py",
+        "pandas",
+        "Turkish banking format"
+      ],
+      "client_rating": 4.6,
+      "client_hires": 18,
+      "proposals": 22,
+      "url": "https://peopleperhour.com/job/901234",
+      "scores": {
+        "budget_fit": 2,
+        "capability": 4,
+        "competition_freshness": 2,
+        "total": 8
+      }
+    },
+    {
+      "id": "A-006",
+      "platform": "Truelancer",
+      "title": "Data entry: Copy product info from catalog to WooCommerce",
+      "description": "Manual entry of 200 products from PDF catalog to WooCommerce. Title, description, price, categories, attributes, images. No coding needed.",
+      "budget": 40,
+      "budget_type": "fixed",
+      "posted_days_ago": 0,
+      "skills": [
+        "WooCommerce",
+        "Data Entry",
+        "Excel",
+        "Turkish"
+      ],
+      "client_rating": 4.0,
+      "client_hires": 3,
+      "proposals": 35,
+      "url": "https://truelancer.com/jobs/112233",
+      "scores": {
+        "budget_fit": 1,
+        "capability": 2,
+        "competition_freshness": 1,
+        "total": 4
+      }
+    }
+  ]
+}
