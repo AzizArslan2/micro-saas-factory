@@ -1,0 +1,4 @@
+SKU,ProductName,StockLevel,MinThreshold,Status
+TSHIRT-001,Mavi Pamuklu Tişört,15,5,OK
+MUG-002,Seramik Kupa,3,5,LOW STOCK
+PHCASE-003,iPhone 15 Kılıf,0,2,OUT OF STOCK

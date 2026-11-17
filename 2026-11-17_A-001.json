@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-17",
+  "channel": "A",
+  "candidate_id": "A-001",
+  "platform": "Upwork",
+  "job_title": "Extract product data from e-commerce site to CSV",
+  "draft": "I'll extract 5000 Shopify products by writing a Python script using Selenium to handle pagination and lazy loading, then export name, price, SKU, images, and description to CSV. Fixed price: $138 (includes 15% buffer). Delivery: 3 days. Steps: 1) Inspect site structure and pagination, 2) Build scraper with error handling and retries, 3) Test on sample pages, 4) Run full extraction, 5) Validate CSV output and deliver.",
+  "proposed_price": 138,
+  "delivery_days": 3,
+  "status": "draft"
+}

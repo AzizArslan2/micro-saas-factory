@@ -1,0 +1,11 @@
+{
+  "date": "2026-11-17",
+  "channel": "A",
+  "candidate_id": "A-003",
+  "platform": "RemoteOK",
+  "job_title": "Scrape real estate listings from 3 Turkish property sites",
+  "draft": "I'll scrape listings from sahibinden, emlakjet, and hepsiemlak using Playwright to bypass anti-bot measures, extracting address, price, m², rooms, photos, and agent contact into JSON and CSV. Fixed price: $230 (includes 15% buffer). Delivery: 5 days. Steps: 1) Analyze each site's structure and anti-bot defenses, 2) Build separate Playwright scrapers per site, 3) Implement rate limiting and proxy rotation, 4) Merge and deduplicate data, 5) Deliver validated JSON/CSV with sample verification.",
+  "proposed_price": 230,
+  "delivery_days": 5,
+  "status": "draft"
+}
